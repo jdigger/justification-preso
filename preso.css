@@ -65,6 +65,14 @@ div.smaller {
   margin: 0em;
 }
 
+.quoteblock.bible {
+	background-image: url("images/large-papyrus-background.jpg");
+}
+
+div.imageblock.sola-inv > img {
+	opacity: 0.0;
+}
+
 .license {
     font-size: 0.5em;
     line-height: normal;
